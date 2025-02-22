@@ -1,0 +1,7 @@
+JAVA script 
+
+- Variable and Constents
+consts cant be updated 
+
+let - Updated version always use this 
+var - Dont use it old tech
